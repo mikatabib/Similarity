@@ -22,4 +22,4 @@ $ python3 main.py
 
 - [POS Tagger](https://github.com/mrrizal/POS_Tag_Indonesian)
 
-- [PySastrawi](https://github.com/har07/PySastrawi))
+- [PySastrawi](https://github.com/har07/PySastrawi)
